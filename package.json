@@ -1,0 +1,25 @@
+{
+  "name": "8-ojeadores-futbol",
+  "version": "1.0.0",
+  "description": "Proyecto en grupo realizado por Ana Corral, Fernando Castro y Jose Romero, estudiantes del Bootcamp Full Stack Development de Hack a Bos. Se trata de una web donde conectamos jóvenes futbolistas con ojeadores, teniendo un tercer usuario el cual puede ver todo el contenido a modo de entretenimiento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server www --files www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/AnaCorral/8-ojeadores-futbol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/AnaCorral/8-ojeadores-futbol/issues"
+  },
+  "homepage": "https://gitlab.com/AnaCorral/8-ojeadores-futbol#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
